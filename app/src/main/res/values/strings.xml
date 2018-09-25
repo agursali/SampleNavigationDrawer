@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Navigation Drawer Header Labels -->
+    <string name="home">HOME</string>
+    <string name="caraccess">CAR ACCESSORIES</string>
+    <string name="dealers">DEALERS</string>
+    <string name="wishlist">MY WISHLIST</string>
+    <string name="more">MORE</string>
+
+    <!--Navigation Drawer Child Labels -->
+    <string name="aboutus">ABOUT US</string>
+    <string name="newsupdate">NEWS &amp; UPDATES</string>
+    <string name="downleaf">DOWNLOAD LEAFLET</string>
+    <string name="contactus">CONTACT US</string>
+
+</resources>
